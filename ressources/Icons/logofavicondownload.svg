@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="105mm"
+   height="72mm"
+   viewBox="0 0 105 72"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logofavicondownload.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3843855"
+     inkscape:cx="299.04965"
+     inkscape:cy="308.07892"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Windows1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#c00000;fill-opacity:1"
+       id="rect1"
+       width="43.665203"
+       height="40.989529"
+       x="0.65119272"
+       y="8.6472178"
+       ry="4.9691119" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Windows2"
+     transform="translate(47.779923,6.1158301)">
+    <rect
+       style="fill:#ff2727;fill-opacity:1;stroke-width:0.264583"
+       id="rect2"
+       width="40.517376"
+       height="40.517376"
+       x="-17.842459"
+       y="24.937346"
+       ry="4.9691119" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Windows3">
+    <rect
+       style="fill:#ff4f4f;fill-opacity:1;stroke-width:0.264583"
+       id="rect3"
+       width="42.810818"
+       height="41.281849"
+       x="62.045547"
+       y="0.47402674"
+       ry="3.8223939" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="DownloadIcon">
+    <path
+       style="fill:none;fill-opacity:0.476868;stroke:#28ff15;stroke-width:2.065;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 76.447877,66.700772 h 24.845553 l -0.19112,-13.951738 v 13.378378 l -0.38223,0.764479 z"
+       id="path16" />
+    <path
+       style="fill:none;fill-opacity:0.476868;stroke:#28ff15;stroke-width:2.065;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 76.256755,66.891891 76.447877,52.366796 Z"
+       id="path17" />
+    <path
+       style="fill:none;fill-opacity:0.476868;stroke:#28ff15;stroke-width:2.065;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 88.488416,66.700772 81.799228,61.349421 Z"
+       id="path18" />
+    <path
+       style="fill:none;fill-opacity:0.476868;stroke:#28ff15;stroke-width:2.065;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 88.488416,66.700772 92.884169,60.96718 Z"
+       id="path19" />
+    <path
+       style="fill:none;fill-opacity:0.476868;stroke:#28ff15;stroke-width:2.065;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 87.723937,65.745174 V 44.148647 Z"
+       id="path20" />
+  </g>
+</svg>
