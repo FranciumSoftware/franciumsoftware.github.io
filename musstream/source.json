@@ -1,0 +1,36 @@
+{
+    "name": "MusStream official source",
+    "version": "1",
+    "url": "",
+    "description": "The official music source for MusStream with only free music.",
+    "musics": [
+        {
+            "name": "Running (feat.Elske)",
+            "artist": "Jens East",
+            "album": "Running (feat.Elske)",
+            "url": "https://www.auboutdufil.com/get.php?fla=https://archive.org/download/jens-east-running-ft-elske/JensEast-Running-ft-Elske.mp3",
+            "url_cover": "https://www.auboutdufil.com/img/image_652.jpg",
+            "year": "2022",
+            "tags": "electronic; house; chill;"
+        },
+        {
+            "name": "Desire",
+            "artist": "Mark Vard",
+            "album": "Desire - single",
+            "url": "https://www.auboutdufil.com/get.php?fla=https://archive.org/download/markvard-desire/Markvard-Desire.mp3",
+            "url_cover": "https://www.auboutdufil.com/img/image_607.jpg",
+            "year": "2021",
+            "tags": "EDM; electronic; dance; chill;"
+        },
+        {
+            "name": "The dark woods",
+            "artist": "Clone me twice",
+            "album": "The dark woods - single",
+            "url": "https://www.auboutdufil.com/get.php?web=https://archive.org/download/clonemetwicethedarkwoods/CloneMeTwice_TheDarkWoods.mp3",
+            "url_cover": "https://www.auboutdufil.com/img/cover/cover_541.jpg",
+            "year": "2021",
+            "tags": "EDM; electronic; dance; chill;",
+            "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+        }
+    ]
+}
